@@ -1,0 +1,3 @@
+git svn clone -s https://anonsvn.springframework.org/svn/spring-samples/petclinic/ petclinic
+
+svn checkout https://anonsvn.springframework.org/svn/spring-samples/petclinic/trunk petclinic
